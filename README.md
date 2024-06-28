@@ -13,7 +13,7 @@ I like to work with Python, React, MongoDB, NodeJS and Firebase.
 
 
 ### "Until you find the solution, Don't stop coding"! 
-![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
+<!-- ![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif) -->
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
