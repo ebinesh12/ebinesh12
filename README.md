@@ -3,8 +3,8 @@
 [![Github](https://img.shields.io/github/followers/nick-aldo?label=Follow&style=social)](https://github.com/nick-aldo)
 [![Linkedin](https://img.shields.io/badge/Ebinesh%20Rabin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-aldo/)](https://www.linkedin.com/in/nick-aldo/)
 
-<!--<a href="https://app.daily.dev/antonjeejo13"><img src="https://github.com/nick-aldo/nick-aldo/blob/master/devcard.svg" width="300" alt="Ebinesh Rabin's Dev Card"/></a>-->
-
+<a href="https://app.daily.dev/nickaldo"><img src="https://github.com/nick-aldo/nick-aldo/blob/master/devcard.svg" width="300" alt="Ebinesh Rabin's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/nickaldo"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?r=cv0" width="356" alt="Nick Aldo's Dev Card"/></a> -->
 
 ## About me 
 <!-- I'm a full stack developer. -->
