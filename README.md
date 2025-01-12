@@ -23,15 +23,15 @@ I like to work with Python, React, MongoDB, NodeJS and Firebase.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 
-## Stack I work with
+## Stacks I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
