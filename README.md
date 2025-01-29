@@ -1,9 +1,9 @@
 # Ebinesh Rabin
 
-[![Github](https://img.shields.io/github/followers/nick-aldo?label=Follow&style=social)](https://github.com/nick-aldo)
-[![Linkedin](https://img.shields.io/badge/Ebinesh%20Rabin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-aldo/)](https://www.linkedin.com/in/ebinesh-rabin-c19/)
+[![Github](https://img.shields.io/github/followers/ebinesh12?label=Follow&style=social)](https://github.com/ebinesh12)
+[![Linkedin](https://img.shields.io/badge/Ebinesh%20Rabin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ebinesh12/)](https://www.linkedin.com/in/ebinesh-rabin-c19/)
 
-<a href="https://app.daily.dev/nickaldo"><img src="https://github.com/nick-aldo/nick-aldo/blob/master/devcard.png" width="300" alt="Ebinesh Rabin's Dev Card"/></a>
+<a href="https://app.daily.dev/nickaldo"><img src="https://github.com/ebinesh12/ebinesh12/blob/master/devcard.png" width="300" alt="Ebinesh Rabin's Dev Card"/></a>
 <!-- <a href="https://app.daily.dev/nickaldo"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?r=cv0" width="356" alt="Nick Aldo's Dev Card"/></a> -->
 
 ## About me 
@@ -54,17 +54,17 @@ I like to work with Python, React, MongoDB, NodeJS and Firebase.
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nick-aldo&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nick-aldo&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ebinesh12&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ebinesh12&hide=css,java,html&theme=tokyonight">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nick-aldo" alt="Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebinesh12" alt="Views" /> </p>
 
 ### GITHUB TROPHIES
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nick-aldo&theme=dracula&no-frame=true&margin-w=15&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ebinesh12&theme=dracula&no-frame=true&margin-w=15&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nick-aldo)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ebinesh12)  
 
 <!--## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
