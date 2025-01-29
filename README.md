@@ -9,7 +9,7 @@
 ## About me 
 <!-- I'm a full stack developer. -->
 I'm a open-source development enthusiast.
-I like to work with Python, React, MongoDB, NodeJS and Firebase. 
+I like to work with Python, React. 
 
 
 ### "Until you find the solution, Don't stop coding"! 
