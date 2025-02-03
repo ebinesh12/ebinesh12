@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/ebinesh12?label=Follow&style=social)](https://github.com/ebinesh12)
 [![Linkedin](https://img.shields.io/badge/Ebinesh%20Rabin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ebinesh12/)](https://www.linkedin.com/in/ebinesh-rabin-c19/)
 
-<a href="https://app.daily.dev/nickaldo"><img src="https://github.com/ebinesh12/ebinesh12/blob/master/devcard.png" width="300" alt="Ebinesh Rabin's Dev Card"/></a>
+<a href="https://app.daily.dev/ebinesh"><img src="https://github.com/ebinesh12/ebinesh12/blob/master/devcard.png" width="300" alt="Ebinesh Rabin's Dev Card"/></a>
 <!-- <a href="https://app.daily.dev/nickaldo"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?r=cv0" width="356" alt="Nick Aldo's Dev Card"/></a> -->
 
 ## About me 
