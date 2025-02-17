@@ -2,6 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/ebinesh12?label=Follow&style=social)](https://github.com/ebinesh12)
 [![Linkedin](https://img.shields.io/badge/Ebinesh%20Rabin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ebinesh12/)](https://www.linkedin.com/in/ebinesh-rabin-c19/)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ebinesh12" alt="Views" /> </p>
 
 <a href="https://app.daily.dev/ebinesh"><img src="https://github.com/ebinesh12/ebinesh12/blob/master/devcard.png" width="300" alt="Ebinesh Rabin's Dev Card"/></a>
 <!-- <a href="https://app.daily.dev/nickaldo"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?r=cv0" width="356" alt="Nick Aldo's Dev Card"/></a> -->
@@ -57,10 +58,14 @@ I like to work with Python, React.
   <img src = "https://github-readme-stats.vercel.app/api?username=ebinesh12&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ebinesh12&hide=css,java,html&theme=tokyonight">
 </p>
+![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=ebi)
+<img alt="Dynamic XML Badge" src="https://img.shields.io/badge/dynamic/xml?url=ebi">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebinesh12" alt="Views" /> </p>
 
 ### GITHUB TROPHIES
+
+[![Ebinesh Rabin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ebinesh12&theme=dracula)](https://github.com/ebinesh12/github-readme-activity-graph)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ebinesh12&theme=dracula&no-frame=true&margin-w=15&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
