@@ -4,8 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/Ebinesh%20Rabin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ebinesh12/)](https://www.linkedin.com/in/ebinesh-rabin-c19/)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ebinesh12" alt="Views" /> </p>
 
-<a href="https://app.daily.dev/ebinesh"><img src="https://github.com/ebinesh12/ebinesh12/blob/master/devcard.png" width="300" alt="Ebinesh Rabin's Dev Card"/></a>
-<!-- <a href="https://app.daily.dev/nickaldo"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?r=cv0" width="356" alt="Nick Aldo's Dev Card"/></a> -->
+<a href="https://app.daily.dev/ebinesh"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?type=default&r=497" width="356" alt="Ebinesh Rabin's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/ebinesh"><img src="https://github.com/ebinesh12/ebinesh12/blob/master/devcard.png" width="300" alt="Ebinesh Rabin's Dev Card"/></a> -->
 
 ## About me 
 <!-- I'm a full stack developer. -->
