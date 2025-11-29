@@ -1,87 +1,95 @@
-# Ebinesh Rabin
+<div align="center">
 
-[![Github](https://img.shields.io/github/followers/ebinesh12?label=Follow&style=social)](https://github.com/ebinesh12)
-[![Linkedin](https://img.shields.io/badge/Ebinesh%20Rabin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ebinesh12/)](https://www.linkedin.com/in/ebinesh-rabin-c19/)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ebinesh12" alt="Views" /> </p>
+# Hi there, I'm Ebinesh Rabin! 👋
 
-<a href="https://app.daily.dev/ebinesh"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?type=default&r=497" width="356" alt="Ebinesh Rabin's Dev Card"/></a>
-<!-- <a href="https://app.daily.dev/ebinesh"><img src="https://github.com/ebinesh12/ebinesh12/blob/master/devcard.png" width="300" alt="Ebinesh Rabin's Dev Card"/></a> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F88C5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Python+%26+React+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-## About me 
-<!-- I'm a full stack developer. -->
-I'm a open-source development enthusiast.
-I like to work with Python, React. 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebinesh-rabin-c19/)
+[![Daily.dev](https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/ebinesh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebinesh12)
 
+<img src="https://komarev.com/ghpvc/?username=ebinesh12&label=Profile%20Views&color=blue&style=flat" alt="Views" />
 
-### "Until you find the solution, Don't stop coding"! 
-<!-- ![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif) -->
+</div>
 
-## Operating System I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<br />
 
-## Languages I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+## 🚀 About Me
 
-## Frameworks I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+I am a passionate **Full Stack Developer** and an **Open Source Enthusiast**. I love building scalable web applications and exploring new technologies to solve real-world problems.
 
-## Stacks I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+> _"Until you find the solution, Don't stop coding!"_ 💻
 
-### My Github Stats
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently learning **Advanced System Design & DevOps**
+- 💬 Ask me about **Python, React, Django, and JavaScript**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ebinesh-rabin-c19/)**
 
-<br>
+<br />
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ebinesh12&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ebinesh12&theme=tokyonight">
-</p>
-![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=ebi)
-<img alt="Dynamic XML Badge" src="https://img.shields.io/badge/dynamic/xml?url=ebi">
+## 🛠️ Tech Stack
 
+<div align="center">
 
-### GITHUB TROPHIES
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-[![Ebinesh Rabin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ebinesh12&theme=dracula)](https://github.com/ebinesh12/github-readme-activity-graph)
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+### Backend
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ebinesh12&theme=dracula&no-frame=true&margin-w=15&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)<br>
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ebinesh12)  
+### Tools & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<!--## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+</div>
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
- <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code> -->
+<br />
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ebinesh12&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ebinesh12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebinesh12&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" height="180" alt="languages graph"  />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ebinesh12&theme=tokyonight&hide_border=true&background=00000000" alt="streak stats" />
+
+</div>
+
+<br />
+
+## 📰 Latest Blog Posts (Daily.dev)
+
+<div align="center">
+<a href="https://app.daily.dev/ebinesh"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?type=default&r=497" width="400" alt="Ebinesh Rabin's Dev Card"/></a>
+</div>
