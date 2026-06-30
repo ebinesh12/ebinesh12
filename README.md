@@ -1,14 +1,16 @@
 <div align="center">
+<!-- Modern Header Image (Optional, but adds a great touch) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=I%27m%20Ebinesh%20Rabin!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 
-# Hi there, I'm Ebinesh Rabin! 👋
+<!-- # Hi there, I'm Ebinesh Rabin! 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F88C5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Python+%26+React+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=6C63FF&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Python+%26+React+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebinesh-rabin-c19/)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/ebinesh)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebinesh12)
 
-<img src="https://komarev.com/ghpvc/?username=ebinesh12&label=Profile%20Views&color=blue&style=flat" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=ebinesh12&label=Profile%20Views&color=6C63FF&style=flat" alt="Views" />
 
 </div>
 
@@ -78,10 +80,8 @@ I am a passionate **Full Stack Developer** and an **Open Source Enthusiast**. I 
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ebinesh12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebinesh12&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" height="180" alt="languages graph"  />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebinesh12&hide=css,html&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" height="180" alt="languages graph"  />
 <br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebinesh12&theme=tokyonight&hide_border=true&background=00000000" alt="streak stats" />
 
 </div>
@@ -92,4 +92,8 @@ I am a passionate **Full Stack Developer** and an **Open Source Enthusiast**. I 
 
 <div align="center">
 <a href="https://app.daily.dev/ebinesh"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?type=default&r=497" width="400" alt="Ebinesh Rabin's Dev Card"/></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=150&section=footer" width="100%" alt="Footer" />
 </div>
