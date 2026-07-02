@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Modern Header Image (Optional, but adds a great touch) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=I%27m%20Ebinesh%20Rabin!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Ebinesh%20Rabin&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&&desc=&descAlignY=62&descSize=16" width="100%" alt="Header" />
 
 <!-- # Hi there, I'm Ebinesh Rabin! 👋 -->
 
@@ -88,10 +88,16 @@ I am a passionate **Full Stack Developer** and an **Open Source Enthusiast**. I 
 
 <br />
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebinesh12&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+</div>
+
 ## 📰 Latest Blog Posts (Daily.dev)
 
 <div align="center">
-<a href="https://app.daily.dev/ebinesh"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?type=default&r=497" width="400" alt="Ebinesh Rabin's Dev Card"/></a>
+<a href="https://app.daily.dev/ebinesh"><img src="https://api.daily.dev/devcards/v2/nuANLLKxHGblFR81HOTK8.png?type=wide&r=084" width="90%" alt="Ebinesh Rabin's Dev Card"/></a>
 </div>
 
 <div align="center">
