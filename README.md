@@ -75,12 +75,13 @@ I am a passionate **Full Stack Developer** and an **Open Source Enthusiast**. I 
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ebinesh12&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy-unserori.vercel.app/?username=ebinesh12&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true)](https://github-profile-trophy-unserori.vercel.app/)
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ebinesh12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebinesh12&hide=css,html&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" height="180" alt="languages graph"  />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ebinesh12&include_all_commits=true&&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github-stats-extended.vercel.app/api?username=ebinesh12&include_all_commits=true&&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+[![GitHub Languages Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ebinesh12&langs_count=5&hide_border=true&bg_color=00000000&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=ebinesh12&langs_count=5&hide_border=true&bg_color=00000000&theme=tokyonight)
+
 <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebinesh12&theme=tokyonight&hide_border=true&background=00000000" alt="streak stats" />
 
